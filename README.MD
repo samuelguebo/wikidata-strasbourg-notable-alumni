@@ -8,7 +8,7 @@ Once obtained, the alumni list is used in a second set operation: the collection
 
 The output data is saved in `alumni.json`
 
-# Requirements
+## Requirements
 
 * [Python 3.x+](https://www.python.org/downloads/)
 * [PIP (Python Dependency Manager)](https://pip.pypa.io/en/stable/installing/)
@@ -20,5 +20,5 @@ Install application dependencies using the `pip -r requirements.txt` command
 Run the following command to make trigger script.
 `python generate-alumni.py`
 
-# Contributors 
+## Contributors 
  * Samuel Guebo ([@samuelguebo](https://twitter/com/samuelguebo))
